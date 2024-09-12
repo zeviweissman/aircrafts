@@ -1,13 +1,14 @@
 import api_service
 import json_service
+import csv_service
 from functools import reduce, partial
 from itertools import groupby
 from utils.convert_utils import *
 from utils.calc_utils import *
 
-PILOTS_PATH = "../json/pilots.json"
-AIRCRAFTS_PATH = "../json/aircraft.json"
-TARGETS_PATH = "../json/targets.json"
+PILOTS_PATH = "../repos/pilots.json"
+AIRCRAFTS_PATH = "../repos/aircraft.json"
+TARGETS_PATH = "../repos/targets.json"
 
 
 def get_all_pilots():
@@ -66,11 +67,7 @@ def get_all_available_missions_by_origin(origon_location):
     return missions
 
 
-a = get_all_available_missions_by_origin((31.79592425, 35.21198075969497))
-b = groupby(iter(a), key=lambda tu: tu[0].aircraft.type)
-d = {k:list(g) for k,g in b}
-c = [[k,list(g)] for k,g in b]
-print(a)
-print(c)
-print(d)
+
+
+
 

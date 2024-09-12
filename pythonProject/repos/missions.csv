@@ -1,0 +1,712 @@
+id,city,aircraft,pilot,priority,score
+1,Damascus,Fighter Jet,John Doe,5,4.8554480569673695
+1,Damascus,Fighter Jet,Jane Smith,5,2.8554480569673695
+1,Damascus,Fighter Jet,Michael Clark,5,5.855448056967369
+1,Damascus,Fighter Jet,Alice Johnson,5,3.8554480569673695
+1,Damascus,Fighter Jet,Robert White,5,6.855448056967369
+1,Damascus,Fighter Jet,Tom Cruise,5,5.855448056967369
+1,Damascus,Fighter Jet,Chris Prat,5,2.8554480569673695
+1,Damascus,Fighter Jet,Davis Miller,5,1.8554480569673695
+1,Damascus,Fighter Jet,Shara Connor,5,4.8554480569673695
+1,Damascus,Bomber,John Doe,5,2.759080094945616
+1,Damascus,Bomber,Jane Smith,5,0.7590800949456158
+1,Damascus,Bomber,Michael Clark,5,3.759080094945615
+1,Damascus,Bomber,Alice Johnson,5,1.7590800949456158
+1,Damascus,Bomber,Robert White,5,4.759080094945615
+1,Damascus,Bomber,Tom Cruise,5,3.759080094945615
+1,Damascus,Bomber,Chris Prat,5,0.7590800949456158
+1,Damascus,Bomber,Davis Miller,5,-0.2409199050543842
+1,Damascus,Bomber,Shara Connor,5,2.759080094945616
+1,Damascus,Drone,John Doe,5,6.566344170902108
+1,Damascus,Drone,Jane Smith,5,4.566344170902108
+1,Damascus,Drone,Michael Clark,5,7.5663441709021075
+1,Damascus,Drone,Alice Johnson,5,5.566344170902108
+1,Damascus,Drone,Robert White,5,8.566344170902108
+1,Damascus,Drone,Tom Cruise,5,7.5663441709021075
+1,Damascus,Drone,Chris Prat,5,4.566344170902108
+1,Damascus,Drone,Davis Miller,5,3.5663441709021084
+1,Damascus,Drone,Shara Connor,5,6.566344170902108
+1,Damascus,Helicopter,John Doe,5,6.657930213627635
+1,Damascus,Helicopter,Jane Smith,5,4.657930213627635
+1,Damascus,Helicopter,Michael Clark,5,7.657930213627636
+1,Damascus,Helicopter,Alice Johnson,5,5.657930213627635
+1,Damascus,Helicopter,Robert White,5,8.657930213627635
+1,Damascus,Helicopter,Tom Cruise,5,7.657930213627636
+1,Damascus,Helicopter,Chris Prat,5,4.657930213627635
+1,Damascus,Helicopter,Davis Miller,5,3.657930213627635
+1,Damascus,Helicopter,Shara Connor,5,6.657930213627635
+1,Damascus,Stealth Fighter,John Doe,5,4.3795400474728075
+1,Damascus,Stealth Fighter,Jane Smith,5,2.3795400474728075
+1,Damascus,Stealth Fighter,Michael Clark,5,5.379540047472808
+1,Damascus,Stealth Fighter,Alice Johnson,5,3.3795400474728075
+1,Damascus,Stealth Fighter,Robert White,5,6.379540047472808
+1,Damascus,Stealth Fighter,Tom Cruise,5,5.379540047472808
+1,Damascus,Stealth Fighter,Chris Prat,5,2.3795400474728075
+1,Damascus,Stealth Fighter,Davis Miller,5,1.3795400474728075
+1,Damascus,Stealth Fighter,Shara Connor,5,4.3795400474728075
+1,Damascus,Recon Drone,John Doe,5,6.438620142418423
+1,Damascus,Recon Drone,Jane Smith,5,4.438620142418423
+1,Damascus,Recon Drone,Michael Clark,5,7.438620142418423
+1,Damascus,Recon Drone,Alice Johnson,5,5.438620142418423
+1,Damascus,Recon Drone,Robert White,5,8.438620142418424
+1,Damascus,Recon Drone,Tom Cruise,5,7.438620142418423
+1,Damascus,Recon Drone,Chris Prat,5,4.438620142418423
+1,Damascus,Recon Drone,Davis Miller,5,3.438620142418423
+1,Damascus,Recon Drone,Shara Connor,5,6.438620142418423
+1,Damascus,Heavy Bomber,John Doe,5,1.7449083358247695
+1,Damascus,Heavy Bomber,Jane Smith,5,-0.25509166417523055
+1,Damascus,Heavy Bomber,Michael Clark,5,2.7449083358247695
+1,Damascus,Heavy Bomber,Alice Johnson,5,0.7449083358247695
+1,Damascus,Heavy Bomber,Robert White,5,3.7449083358247695
+1,Damascus,Heavy Bomber,Tom Cruise,5,2.7449083358247695
+1,Damascus,Heavy Bomber,Chris Prat,5,-0.25509166417523055
+1,Damascus,Heavy Bomber,Davis Miller,5,-1.2550916641752305
+1,Damascus,Heavy Bomber,Shara Connor,5,1.7449083358247695
+1,Beirut,Fighter Jet,John Doe,4,4.843445673673932
+1,Beirut,Fighter Jet,Jane Smith,4,2.8434456736739318
+1,Beirut,Fighter Jet,Michael Clark,4,5.843445673673932
+1,Beirut,Fighter Jet,Alice Johnson,4,3.8434456736739318
+1,Beirut,Fighter Jet,Robert White,4,6.843445673673932
+1,Beirut,Fighter Jet,Tom Cruise,4,5.843445673673932
+1,Beirut,Fighter Jet,Chris Prat,4,2.8434456736739318
+1,Beirut,Fighter Jet,Davis Miller,4,1.8434456736739318
+1,Beirut,Fighter Jet,Shara Connor,4,4.843445673673932
+1,Beirut,Bomber,John Doe,4,2.7390761227898857
+1,Beirut,Bomber,Jane Smith,4,0.7390761227898857
+1,Beirut,Bomber,Michael Clark,4,3.7390761227898857
+1,Beirut,Bomber,Alice Johnson,4,1.7390761227898857
+1,Beirut,Bomber,Robert White,4,4.739076122789886
+1,Beirut,Bomber,Tom Cruise,4,3.7390761227898857
+1,Beirut,Bomber,Chris Prat,4,0.7390761227898857
+1,Beirut,Bomber,Davis Miller,4,-0.26092387721011434
+1,Beirut,Bomber,Shara Connor,4,2.7390761227898857
+1,Beirut,Drone,John Doe,4,6.530337021021795
+1,Beirut,Drone,Jane Smith,4,4.530337021021795
+1,Beirut,Drone,Michael Clark,4,7.530337021021795
+1,Beirut,Drone,Alice Johnson,4,5.530337021021795
+1,Beirut,Drone,Robert White,4,8.530337021021795
+1,Beirut,Drone,Tom Cruise,4,7.530337021021795
+1,Beirut,Drone,Chris Prat,4,4.530337021021795
+1,Beirut,Drone,Davis Miller,4,3.5303370210217953
+1,Beirut,Drone,Shara Connor,4,6.530337021021795
+1,Beirut,Helicopter,John Doe,4,6.612921276277244
+1,Beirut,Helicopter,Jane Smith,4,4.612921276277244
+1,Beirut,Helicopter,Michael Clark,4,7.612921276277244
+1,Beirut,Helicopter,Alice Johnson,4,5.612921276277244
+1,Beirut,Helicopter,Robert White,4,8.612921276277243
+1,Beirut,Helicopter,Tom Cruise,4,7.612921276277244
+1,Beirut,Helicopter,Chris Prat,4,4.612921276277244
+1,Beirut,Helicopter,Davis Miller,4,3.612921276277244
+1,Beirut,Helicopter,Shara Connor,4,6.612921276277244
+1,Beirut,Stealth Fighter,John Doe,4,4.369538061394943
+1,Beirut,Stealth Fighter,Jane Smith,4,2.369538061394943
+1,Beirut,Stealth Fighter,Michael Clark,4,5.369538061394943
+1,Beirut,Stealth Fighter,Alice Johnson,4,3.369538061394943
+1,Beirut,Stealth Fighter,Robert White,4,6.369538061394943
+1,Beirut,Stealth Fighter,Tom Cruise,4,5.369538061394943
+1,Beirut,Stealth Fighter,Chris Prat,4,2.369538061394943
+1,Beirut,Stealth Fighter,Davis Miller,4,1.3695380613949428
+1,Beirut,Stealth Fighter,Shara Connor,4,4.369538061394943
+1,Beirut,Recon Drone,John Doe,4,6.408614184184829
+1,Beirut,Recon Drone,Jane Smith,4,4.408614184184829
+1,Beirut,Recon Drone,Michael Clark,4,7.408614184184828
+1,Beirut,Recon Drone,Alice Johnson,4,5.408614184184829
+1,Beirut,Recon Drone,Robert White,4,8.40861418418483
+1,Beirut,Recon Drone,Tom Cruise,4,7.408614184184828
+1,Beirut,Recon Drone,Chris Prat,4,4.408614184184829
+1,Beirut,Recon Drone,Davis Miller,4,3.408614184184829
+1,Beirut,Recon Drone,Shara Connor,4,6.408614184184829
+1,Beirut,Heavy Bomber,John Doe,4,1.7237276594245854
+1,Beirut,Heavy Bomber,Jane Smith,4,-0.2762723405754146
+1,Beirut,Heavy Bomber,Michael Clark,4,2.7237276594245845
+1,Beirut,Heavy Bomber,Alice Johnson,4,0.7237276594245854
+1,Beirut,Heavy Bomber,Robert White,4,3.7237276594245845
+1,Beirut,Heavy Bomber,Tom Cruise,4,2.7237276594245845
+1,Beirut,Heavy Bomber,Chris Prat,4,-0.2762723405754146
+1,Beirut,Heavy Bomber,Davis Miller,4,-1.2762723405754146
+1,Beirut,Heavy Bomber,Shara Connor,4,1.7237276594245854
+1,Amman,Fighter Jet,John Doe,3,4.953718052339215
+1,Amman,Fighter Jet,Jane Smith,3,2.953718052339215
+1,Amman,Fighter Jet,Michael Clark,3,5.953718052339216
+1,Amman,Fighter Jet,Alice Johnson,3,3.953718052339215
+1,Amman,Fighter Jet,Robert White,3,6.953718052339216
+1,Amman,Fighter Jet,Tom Cruise,3,5.953718052339216
+1,Amman,Fighter Jet,Chris Prat,3,2.953718052339215
+1,Amman,Fighter Jet,Davis Miller,3,1.953718052339215
+1,Amman,Fighter Jet,Shara Connor,3,4.953718052339215
+1,Amman,Bomber,John Doe,3,2.922863420565359
+1,Amman,Bomber,Jane Smith,3,0.922863420565359
+1,Amman,Bomber,Michael Clark,3,3.922863420565358
+1,Amman,Bomber,Alice Johnson,3,1.922863420565359
+1,Amman,Bomber,Robert White,3,4.922863420565358
+1,Amman,Bomber,Tom Cruise,3,3.922863420565358
+1,Amman,Bomber,Chris Prat,3,0.922863420565359
+1,Amman,Bomber,Davis Miller,3,-0.07713657943464103
+1,Amman,Bomber,Shara Connor,3,2.922863420565359
+1,Amman,Drone,John Doe,3,6.861154157017646
+1,Amman,Drone,Jane Smith,3,4.861154157017646
+1,Amman,Drone,Michael Clark,3,7.861154157017646
+1,Amman,Drone,Alice Johnson,3,5.861154157017646
+1,Amman,Drone,Robert White,3,8.861154157017646
+1,Amman,Drone,Tom Cruise,3,7.861154157017646
+1,Amman,Drone,Chris Prat,3,4.861154157017646
+1,Amman,Drone,Davis Miller,3,3.861154157017646
+1,Amman,Drone,Shara Connor,3,6.861154157017646
+1,Amman,Helicopter,John Doe,3,7.026442696272057
+1,Amman,Helicopter,Jane Smith,3,5.026442696272057
+1,Amman,Helicopter,Michael Clark,3,8.026442696272056
+1,Amman,Helicopter,Alice Johnson,3,6.026442696272057
+1,Amman,Helicopter,Robert White,3,9.026442696272056
+1,Amman,Helicopter,Tom Cruise,3,8.026442696272056
+1,Amman,Helicopter,Chris Prat,3,5.026442696272057
+1,Amman,Helicopter,Davis Miller,3,4.026442696272057
+1,Amman,Helicopter,Shara Connor,3,7.026442696272057
+1,Amman,Stealth Fighter,John Doe,3,4.461431710282679
+1,Amman,Stealth Fighter,Jane Smith,3,2.461431710282679
+1,Amman,Stealth Fighter,Michael Clark,3,5.46143171028268
+1,Amman,Stealth Fighter,Alice Johnson,3,3.461431710282679
+1,Amman,Stealth Fighter,Robert White,3,6.46143171028268
+1,Amman,Stealth Fighter,Tom Cruise,3,5.46143171028268
+1,Amman,Stealth Fighter,Chris Prat,3,2.461431710282679
+1,Amman,Stealth Fighter,Davis Miller,3,1.461431710282679
+1,Amman,Stealth Fighter,Shara Connor,3,4.461431710282679
+1,Amman,Recon Drone,John Doe,3,6.684295130848038
+1,Amman,Recon Drone,Jane Smith,3,4.684295130848038
+1,Amman,Recon Drone,Michael Clark,3,7.684295130848038
+1,Amman,Recon Drone,Alice Johnson,3,5.684295130848038
+1,Amman,Recon Drone,Robert White,3,8.684295130848039
+1,Amman,Recon Drone,Tom Cruise,3,7.684295130848038
+1,Amman,Recon Drone,Chris Prat,3,4.684295130848038
+1,Amman,Recon Drone,Davis Miller,3,3.684295130848038
+1,Amman,Recon Drone,Shara Connor,3,6.684295130848038
+1,Amman,Heavy Bomber,John Doe,3,1.9183259747162618
+1,Amman,Heavy Bomber,Jane Smith,3,-0.08167402528373824
+1,Amman,Heavy Bomber,Michael Clark,3,2.9183259747162626
+1,Amman,Heavy Bomber,Alice Johnson,3,0.9183259747162618
+1,Amman,Heavy Bomber,Robert White,3,3.9183259747162626
+1,Amman,Heavy Bomber,Tom Cruise,3,2.9183259747162626
+1,Amman,Heavy Bomber,Chris Prat,3,-0.08167402528373824
+1,Amman,Heavy Bomber,Davis Miller,3,-1.0816740252837382
+1,Amman,Heavy Bomber,Shara Connor,3,1.9183259747162618
+1,Cairo,Fighter Jet,John Doe,3,4.715773544408475
+1,Cairo,Fighter Jet,Jane Smith,3,2.715773544408475
+1,Cairo,Fighter Jet,Michael Clark,3,5.715773544408476
+1,Cairo,Fighter Jet,Alice Johnson,3,3.715773544408475
+1,Cairo,Fighter Jet,Robert White,3,6.715773544408476
+1,Cairo,Fighter Jet,Tom Cruise,3,5.715773544408476
+1,Cairo,Fighter Jet,Chris Prat,3,2.715773544408475
+1,Cairo,Fighter Jet,Davis Miller,3,1.7157735444084752
+1,Cairo,Fighter Jet,Shara Connor,3,4.715773544408475
+1,Cairo,Bomber,John Doe,3,2.526289240680792
+1,Cairo,Bomber,Jane Smith,3,0.526289240680792
+1,Cairo,Bomber,Michael Clark,3,3.526289240680793
+1,Cairo,Bomber,Alice Johnson,3,1.526289240680792
+1,Cairo,Bomber,Robert White,3,4.526289240680793
+1,Cairo,Bomber,Tom Cruise,3,3.526289240680793
+1,Cairo,Bomber,Chris Prat,3,0.526289240680792
+1,Cairo,Bomber,Davis Miller,3,-0.47371075931920803
+1,Cairo,Bomber,Shara Connor,3,2.526289240680792
+1,Cairo,Drone,John Doe,3,6.1473206332254255
+1,Cairo,Drone,Jane Smith,3,4.1473206332254255
+1,Cairo,Drone,Michael Clark,3,7.147320633225426
+1,Cairo,Drone,Alice Johnson,3,5.1473206332254255
+1,Cairo,Drone,Robert White,3,8.147320633225426
+1,Cairo,Drone,Tom Cruise,3,7.147320633225426
+1,Cairo,Drone,Chris Prat,3,4.1473206332254255
+1,Cairo,Drone,Davis Miller,3,3.1473206332254255
+1,Cairo,Drone,Shara Connor,3,6.1473206332254255
+1,Cairo,Helicopter,John Doe,3,6.134150791531782
+1,Cairo,Helicopter,Jane Smith,3,4.134150791531782
+1,Cairo,Helicopter,Michael Clark,3,7.134150791531782
+1,Cairo,Helicopter,Alice Johnson,3,5.134150791531782
+1,Cairo,Helicopter,Robert White,3,8.13415079153178
+1,Cairo,Helicopter,Tom Cruise,3,7.134150791531782
+1,Cairo,Helicopter,Chris Prat,3,4.134150791531782
+1,Cairo,Helicopter,Davis Miller,3,3.1341507915317823
+1,Cairo,Helicopter,Shara Connor,3,6.134150791531782
+1,Cairo,Stealth Fighter,John Doe,3,4.263144620340396
+1,Cairo,Stealth Fighter,Jane Smith,3,2.2631446203403964
+1,Cairo,Stealth Fighter,Michael Clark,3,5.263144620340396
+1,Cairo,Stealth Fighter,Alice Johnson,3,3.2631446203403964
+1,Cairo,Stealth Fighter,Robert White,3,6.263144620340396
+1,Cairo,Stealth Fighter,Tom Cruise,3,5.263144620340396
+1,Cairo,Stealth Fighter,Chris Prat,3,2.2631446203403964
+1,Cairo,Stealth Fighter,Davis Miller,3,1.2631446203403964
+1,Cairo,Stealth Fighter,Shara Connor,3,4.263144620340396
+1,Cairo,Recon Drone,John Doe,3,6.089433861021188
+1,Cairo,Recon Drone,Jane Smith,3,4.089433861021188
+1,Cairo,Recon Drone,Michael Clark,3,7.089433861021187
+1,Cairo,Recon Drone,Alice Johnson,3,5.089433861021188
+1,Cairo,Recon Drone,Robert White,3,8.089433861021188
+1,Cairo,Recon Drone,Tom Cruise,3,7.089433861021187
+1,Cairo,Recon Drone,Chris Prat,3,4.089433861021188
+1,Cairo,Recon Drone,Davis Miller,3,3.089433861021188
+1,Cairo,Recon Drone,Shara Connor,3,6.089433861021188
+1,Cairo,Heavy Bomber,John Doe,3,1.4984239018973096
+1,Cairo,Heavy Bomber,Jane Smith,3,-0.5015760981026904
+1,Cairo,Heavy Bomber,Michael Clark,3,2.4984239018973096
+1,Cairo,Heavy Bomber,Alice Johnson,3,0.49842390189730956
+1,Cairo,Heavy Bomber,Robert White,3,3.4984239018973096
+1,Cairo,Heavy Bomber,Tom Cruise,3,2.4984239018973096
+1,Cairo,Heavy Bomber,Chris Prat,3,-0.5015760981026904
+1,Cairo,Heavy Bomber,Davis Miller,3,-1.5015760981026904
+1,Cairo,Heavy Bomber,Shara Connor,3,1.4984239018973096
+1,Baghdad,Fighter Jet,John Doe,5,4.416066454636638
+1,Baghdad,Fighter Jet,Jane Smith,5,2.4160664546366384
+1,Baghdad,Fighter Jet,Michael Clark,5,5.416066454636638
+1,Baghdad,Fighter Jet,Alice Johnson,5,3.4160664546366384
+1,Baghdad,Fighter Jet,Robert White,5,6.416066454636638
+1,Baghdad,Fighter Jet,Tom Cruise,5,5.416066454636638
+1,Baghdad,Fighter Jet,Chris Prat,5,2.4160664546366384
+1,Baghdad,Fighter Jet,Davis Miller,5,1.4160664546366384
+1,Baghdad,Fighter Jet,Shara Connor,5,4.416066454636638
+1,Baghdad,Bomber,John Doe,5,2.026777424394397
+1,Baghdad,Bomber,Jane Smith,5,0.02677742439439701
+1,Baghdad,Bomber,Michael Clark,5,3.026777424394396
+1,Baghdad,Bomber,Alice Johnson,5,1.026777424394397
+1,Baghdad,Bomber,Robert White,5,4.026777424394396
+1,Baghdad,Bomber,Tom Cruise,5,3.026777424394396
+1,Baghdad,Bomber,Chris Prat,5,0.02677742439439701
+1,Baghdad,Bomber,Davis Miller,5,-0.973222575605603
+1,Baghdad,Bomber,Shara Connor,5,2.026777424394397
+1,Baghdad,Drone,John Doe,5,5.248199363909915
+1,Baghdad,Drone,Jane Smith,5,3.248199363909915
+1,Baghdad,Drone,Michael Clark,5,6.248199363909915
+1,Baghdad,Drone,Alice Johnson,5,4.248199363909915
+1,Baghdad,Drone,Robert White,5,7.248199363909915
+1,Baghdad,Drone,Tom Cruise,5,6.248199363909915
+1,Baghdad,Drone,Chris Prat,5,3.248199363909915
+1,Baghdad,Drone,Davis Miller,5,2.2481993639099147
+1,Baghdad,Drone,Shara Connor,5,5.248199363909915
+1,Baghdad,Stealth Fighter,John Doe,5,4.013388712197198
+1,Baghdad,Stealth Fighter,Jane Smith,5,2.013388712197198
+1,Baghdad,Stealth Fighter,Michael Clark,5,5.013388712197198
+1,Baghdad,Stealth Fighter,Alice Johnson,5,3.013388712197198
+1,Baghdad,Stealth Fighter,Robert White,5,6.013388712197198
+1,Baghdad,Stealth Fighter,Tom Cruise,5,5.013388712197198
+1,Baghdad,Stealth Fighter,Chris Prat,5,2.013388712197198
+1,Baghdad,Stealth Fighter,Davis Miller,5,1.013388712197198
+1,Baghdad,Stealth Fighter,Shara Connor,5,4.013388712197198
+1,Baghdad,Recon Drone,John Doe,5,5.340166136591596
+1,Baghdad,Recon Drone,Jane Smith,5,3.340166136591596
+1,Baghdad,Recon Drone,Michael Clark,5,6.340166136591596
+1,Baghdad,Recon Drone,Alice Johnson,5,4.340166136591596
+1,Baghdad,Recon Drone,Robert White,5,7.340166136591596
+1,Baghdad,Recon Drone,Tom Cruise,5,6.340166136591596
+1,Baghdad,Recon Drone,Chris Prat,5,3.340166136591596
+1,Baghdad,Recon Drone,Davis Miller,5,2.340166136591596
+1,Baghdad,Recon Drone,Shara Connor,5,5.340166136591596
+1,Baghdad,Heavy Bomber,John Doe,5,0.9695290375940679
+1,Baghdad,Heavy Bomber,Jane Smith,5,-1.030470962405932
+1,Baghdad,Heavy Bomber,Michael Clark,5,1.969529037594068
+1,Baghdad,Heavy Bomber,Alice Johnson,5,-0.030470962405932056
+1,Baghdad,Heavy Bomber,Robert White,5,2.969529037594068
+1,Baghdad,Heavy Bomber,Tom Cruise,5,1.969529037594068
+1,Baghdad,Heavy Bomber,Chris Prat,5,-1.030470962405932
+1,Baghdad,Heavy Bomber,Davis Miller,5,-2.0304709624059325
+1,Baghdad,Heavy Bomber,Shara Connor,5,0.9695290375940679
+1,Tehran,Fighter Jet,John Doe,4,3.963271226630143
+1,Tehran,Fighter Jet,Jane Smith,4,1.9632712266301429
+1,Tehran,Fighter Jet,Michael Clark,4,4.963271226630143
+1,Tehran,Fighter Jet,Alice Johnson,4,2.963271226630143
+1,Tehran,Fighter Jet,Robert White,4,5.963271226630143
+1,Tehran,Fighter Jet,Tom Cruise,4,4.963271226630143
+1,Tehran,Fighter Jet,Chris Prat,4,1.9632712266301429
+1,Tehran,Fighter Jet,Davis Miller,4,0.9632712266301424
+1,Tehran,Fighter Jet,Shara Connor,4,3.963271226630143
+1,Tehran,Bomber,John Doe,4,1.2721187110502372
+1,Tehran,Bomber,Jane Smith,4,-0.7278812889497628
+1,Tehran,Bomber,Michael Clark,4,2.272118711050237
+1,Tehran,Bomber,Alice Johnson,4,0.2721187110502372
+1,Tehran,Bomber,Robert White,4,3.272118711050238
+1,Tehran,Bomber,Tom Cruise,4,2.272118711050237
+1,Tehran,Bomber,Chris Prat,4,-0.7278812889497628
+1,Tehran,Bomber,Davis Miller,4,-1.7278812889497628
+1,Tehran,Bomber,Shara Connor,4,1.2721187110502372
+1,Tehran,Stealth Fighter,John Doe,4,3.636059355525119
+1,Tehran,Stealth Fighter,Jane Smith,4,1.636059355525119
+1,Tehran,Stealth Fighter,Michael Clark,4,4.636059355525118
+1,Tehran,Stealth Fighter,Alice Johnson,4,2.636059355525119
+1,Tehran,Stealth Fighter,Robert White,4,5.636059355525118
+1,Tehran,Stealth Fighter,Tom Cruise,4,4.636059355525118
+1,Tehran,Stealth Fighter,Chris Prat,4,1.636059355525119
+1,Tehran,Stealth Fighter,Davis Miller,4,0.636059355525119
+1,Tehran,Stealth Fighter,Shara Connor,4,3.636059355525119
+1,Tehran,Heavy Bomber,John Doe,4,0.17047863522966367
+1,Tehran,Heavy Bomber,Jane Smith,4,-1.8295213647703363
+1,Tehran,Heavy Bomber,Michael Clark,4,1.1704786352296637
+1,Tehran,Heavy Bomber,Alice Johnson,4,-0.8295213647703363
+1,Tehran,Heavy Bomber,Robert White,4,2.1704786352296637
+1,Tehran,Heavy Bomber,Tom Cruise,4,1.1704786352296637
+1,Tehran,Heavy Bomber,Chris Prat,4,-1.8295213647703363
+1,Tehran,Heavy Bomber,Davis Miller,4,-2.8295213647703368
+1,Tehran,Heavy Bomber,Shara Connor,4,0.17047863522966367
+1,Riyadh,Fighter Jet,John Doe,3,4.081110064974648
+1,Riyadh,Fighter Jet,Jane Smith,3,2.0811100649746477
+1,Riyadh,Fighter Jet,Michael Clark,3,5.081110064974647
+1,Riyadh,Fighter Jet,Alice Johnson,3,3.0811100649746477
+1,Riyadh,Fighter Jet,Robert White,3,6.081110064974647
+1,Riyadh,Fighter Jet,Tom Cruise,3,5.081110064974647
+1,Riyadh,Fighter Jet,Chris Prat,3,2.0811100649746477
+1,Riyadh,Fighter Jet,Davis Miller,3,1.0811100649746477
+1,Riyadh,Fighter Jet,Shara Connor,3,4.081110064974648
+1,Riyadh,Bomber,John Doe,3,1.4685167749577461
+1,Riyadh,Bomber,Jane Smith,3,-0.5314832250422539
+1,Riyadh,Bomber,Michael Clark,3,2.468516774957746
+1,Riyadh,Bomber,Alice Johnson,3,0.46851677495774613
+1,Riyadh,Bomber,Robert White,3,3.4685167749577452
+1,Riyadh,Bomber,Tom Cruise,3,2.468516774957746
+1,Riyadh,Bomber,Chris Prat,3,-0.5314832250422539
+1,Riyadh,Bomber,Davis Miller,3,-1.5314832250422539
+1,Riyadh,Bomber,Shara Connor,3,1.4685167749577461
+1,Riyadh,Stealth Fighter,John Doe,3,3.7342583874788726
+1,Riyadh,Stealth Fighter,Jane Smith,3,1.7342583874788726
+1,Riyadh,Stealth Fighter,Michael Clark,3,4.734258387478873
+1,Riyadh,Stealth Fighter,Alice Johnson,3,2.7342583874788726
+1,Riyadh,Stealth Fighter,Robert White,3,5.734258387478873
+1,Riyadh,Stealth Fighter,Tom Cruise,3,4.734258387478873
+1,Riyadh,Stealth Fighter,Chris Prat,3,1.7342583874788726
+1,Riyadh,Stealth Fighter,Davis Miller,3,0.7342583874788726
+1,Riyadh,Stealth Fighter,Shara Connor,3,3.7342583874788726
+1,Riyadh,Heavy Bomber,John Doe,3,0.3784295264258484
+1,Riyadh,Heavy Bomber,Jane Smith,3,-1.6215704735741516
+1,Riyadh,Heavy Bomber,Michael Clark,3,1.3784295264258484
+1,Riyadh,Heavy Bomber,Alice Johnson,3,-0.6215704735741516
+1,Riyadh,Heavy Bomber,Robert White,3,2.3784295264258493
+1,Riyadh,Heavy Bomber,Tom Cruise,3,1.3784295264258484
+1,Riyadh,Heavy Bomber,Chris Prat,3,-1.6215704735741516
+1,Riyadh,Heavy Bomber,Davis Miller,3,-2.6215704735741516
+1,Riyadh,Heavy Bomber,Shara Connor,3,0.3784295264258484
+1,Tripoli,Fighter Jet,John Doe,2,3.6201516798166677
+1,Tripoli,Fighter Jet,Jane Smith,2,1.6201516798166677
+1,Tripoli,Fighter Jet,Michael Clark,2,4.620151679816668
+1,Tripoli,Fighter Jet,Alice Johnson,2,2.6201516798166677
+1,Tripoli,Fighter Jet,Robert White,2,5.620151679816669
+1,Tripoli,Fighter Jet,Tom Cruise,2,4.620151679816668
+1,Tripoli,Fighter Jet,Chris Prat,2,1.6201516798166677
+1,Tripoli,Fighter Jet,Davis Miller,2,0.6201516798166677
+1,Tripoli,Fighter Jet,Shara Connor,2,3.6201516798166677
+1,Tripoli,Bomber,John Doe,2,0.7002527996944465
+1,Tripoli,Bomber,Jane Smith,2,-1.2997472003055535
+1,Tripoli,Bomber,Michael Clark,2,1.7002527996944465
+1,Tripoli,Bomber,Alice Johnson,2,-0.29974720030555346
+1,Tripoli,Bomber,Robert White,2,2.7002527996944465
+1,Tripoli,Bomber,Tom Cruise,2,1.7002527996944465
+1,Tripoli,Bomber,Chris Prat,2,-1.2997472003055535
+1,Tripoli,Bomber,Davis Miller,2,-2.2997472003055535
+1,Tripoli,Bomber,Shara Connor,2,0.7002527996944465
+1,Tripoli,Stealth Fighter,John Doe,2,3.3501263998472233
+1,Tripoli,Stealth Fighter,Jane Smith,2,1.3501263998472233
+1,Tripoli,Stealth Fighter,Michael Clark,2,4.350126399847223
+1,Tripoli,Stealth Fighter,Alice Johnson,2,2.3501263998472233
+1,Tripoli,Stealth Fighter,Robert White,2,5.350126399847223
+1,Tripoli,Stealth Fighter,Tom Cruise,2,4.350126399847223
+1,Tripoli,Stealth Fighter,Chris Prat,2,1.3501263998472233
+1,Tripoli,Stealth Fighter,Davis Miller,2,0.35012639984722327
+1,Tripoli,Stealth Fighter,Shara Connor,2,3.3501263998472233
+1,Tripoli,Heavy Bomber,John Doe,2,-0.4350264473823504
+1,Tripoli,Heavy Bomber,Jane Smith,2,-2.435026447382351
+1,Tripoli,Heavy Bomber,Michael Clark,2,0.5649735526176496
+1,Tripoli,Heavy Bomber,Alice Johnson,2,-1.4350264473823504
+1,Tripoli,Heavy Bomber,Robert White,2,1.5649735526176496
+1,Tripoli,Heavy Bomber,Tom Cruise,2,0.5649735526176496
+1,Tripoli,Heavy Bomber,Chris Prat,2,-2.435026447382351
+1,Tripoli,Heavy Bomber,Davis Miller,2,-3.435026447382351
+1,Tripoli,Heavy Bomber,Shara Connor,2,-0.4350264473823504
+1,Ankara,Fighter Jet,John Doe,4,4.381338845570371
+1,Ankara,Fighter Jet,Jane Smith,4,2.3813388455703706
+1,Ankara,Fighter Jet,Michael Clark,4,5.381338845570371
+1,Ankara,Fighter Jet,Alice Johnson,4,3.3813388455703706
+1,Ankara,Fighter Jet,Robert White,4,6.381338845570371
+1,Ankara,Fighter Jet,Tom Cruise,4,5.381338845570371
+1,Ankara,Fighter Jet,Chris Prat,4,2.3813388455703706
+1,Ankara,Fighter Jet,Davis Miller,4,1.3813388455703706
+1,Ankara,Fighter Jet,Shara Connor,4,4.381338845570371
+1,Ankara,Bomber,John Doe,4,1.9688980759506176
+1,Ankara,Bomber,Jane Smith,4,-0.03110192404938239
+1,Ankara,Bomber,Michael Clark,4,2.9688980759506176
+1,Ankara,Bomber,Alice Johnson,4,0.9688980759506176
+1,Ankara,Bomber,Robert White,4,3.9688980759506176
+1,Ankara,Bomber,Tom Cruise,4,2.9688980759506176
+1,Ankara,Bomber,Chris Prat,4,-0.03110192404938239
+1,Ankara,Bomber,Davis Miller,4,-1.031101924049382
+1,Ankara,Bomber,Shara Connor,4,1.9688980759506176
+1,Ankara,Drone,John Doe,4,5.144016536711113
+1,Ankara,Drone,Jane Smith,4,3.1440165367111126
+1,Ankara,Drone,Michael Clark,4,6.144016536711113
+1,Ankara,Drone,Alice Johnson,4,4.144016536711113
+1,Ankara,Drone,Robert White,4,7.1440165367111135
+1,Ankara,Drone,Tom Cruise,4,6.144016536711113
+1,Ankara,Drone,Chris Prat,4,3.1440165367111126
+1,Ankara,Drone,Davis Miller,4,2.1440165367111126
+1,Ankara,Drone,Shara Connor,4,5.144016536711113
+1,Ankara,Stealth Fighter,John Doe,4,3.984449037975309
+1,Ankara,Stealth Fighter,Jane Smith,4,1.9844490379753088
+1,Ankara,Stealth Fighter,Michael Clark,4,4.98444903797531
+1,Ankara,Stealth Fighter,Alice Johnson,4,2.984449037975309
+1,Ankara,Stealth Fighter,Robert White,4,5.98444903797531
+1,Ankara,Stealth Fighter,Tom Cruise,4,4.98444903797531
+1,Ankara,Stealth Fighter,Chris Prat,4,1.9844490379753088
+1,Ankara,Stealth Fighter,Davis Miller,4,0.9844490379753088
+1,Ankara,Stealth Fighter,Shara Connor,4,3.984449037975309
+1,Ankara,Recon Drone,John Doe,4,5.253347113925927
+1,Ankara,Recon Drone,Jane Smith,4,3.253347113925927
+1,Ankara,Recon Drone,Michael Clark,4,6.253347113925927
+1,Ankara,Recon Drone,Alice Johnson,4,4.253347113925927
+1,Ankara,Recon Drone,Robert White,4,7.253347113925927
+1,Ankara,Recon Drone,Tom Cruise,4,6.253347113925927
+1,Ankara,Recon Drone,Chris Prat,4,3.253347113925927
+1,Ankara,Recon Drone,Davis Miller,4,2.253347113925927
+1,Ankara,Recon Drone,Shara Connor,4,5.253347113925927
+1,Ankara,Heavy Bomber,John Doe,4,0.9082450215947722
+1,Ankara,Heavy Bomber,Jane Smith,4,-1.0917549784052278
+1,Ankara,Heavy Bomber,Michael Clark,4,1.9082450215947722
+1,Ankara,Heavy Bomber,Alice Johnson,4,-0.09175497840522784
+1,Ankara,Heavy Bomber,Robert White,4,2.908245021594773
+1,Ankara,Heavy Bomber,Tom Cruise,4,1.9082450215947722
+1,Ankara,Heavy Bomber,Chris Prat,4,-1.0917549784052278
+1,Ankara,Heavy Bomber,Davis Miller,4,-2.091754978405228
+1,Ankara,Heavy Bomber,Shara Connor,4,0.9082450215947722
+1,Khartoum,Fighter Jet,John Doe,3,3.7831949676375736
+1,Khartoum,Fighter Jet,Jane Smith,3,1.7831949676375736
+1,Khartoum,Fighter Jet,Michael Clark,3,4.783194967637574
+1,Khartoum,Fighter Jet,Alice Johnson,3,2.7831949676375736
+1,Khartoum,Fighter Jet,Robert White,3,5.783194967637574
+1,Khartoum,Fighter Jet,Tom Cruise,3,4.783194967637574
+1,Khartoum,Fighter Jet,Chris Prat,3,1.7831949676375736
+1,Khartoum,Fighter Jet,Davis Miller,3,0.7831949676375736
+1,Khartoum,Fighter Jet,Shara Connor,3,3.7831949676375736
+1,Khartoum,Bomber,John Doe,3,0.9719916127292887
+1,Khartoum,Bomber,Jane Smith,3,-1.0280083872707113
+1,Khartoum,Bomber,Michael Clark,3,1.9719916127292887
+1,Khartoum,Bomber,Alice Johnson,3,-0.02800838727071131
+1,Khartoum,Bomber,Robert White,3,2.9719916127292887
+1,Khartoum,Bomber,Tom Cruise,3,1.9719916127292887
+1,Khartoum,Bomber,Chris Prat,3,-1.0280083872707113
+1,Khartoum,Bomber,Davis Miller,3,-2.0280083872707113
+1,Khartoum,Bomber,Shara Connor,3,0.9719916127292887
+1,Khartoum,Stealth Fighter,John Doe,3,3.4859958063646443
+1,Khartoum,Stealth Fighter,Jane Smith,3,1.4859958063646443
+1,Khartoum,Stealth Fighter,Michael Clark,3,4.485995806364644
+1,Khartoum,Stealth Fighter,Alice Johnson,3,2.4859958063646443
+1,Khartoum,Stealth Fighter,Robert White,3,5.485995806364645
+1,Khartoum,Stealth Fighter,Tom Cruise,3,4.485995806364644
+1,Khartoum,Stealth Fighter,Chris Prat,3,1.4859958063646443
+1,Khartoum,Stealth Fighter,Davis Miller,3,0.48599580636464434
+1,Khartoum,Stealth Fighter,Shara Connor,3,3.4859958063646443
+1,Khartoum,Heavy Bomber,John Doe,3,-0.1473029982866354
+1,Khartoum,Heavy Bomber,Jane Smith,3,-2.1473029982866354
+1,Khartoum,Heavy Bomber,Michael Clark,3,0.8526970017133646
+1,Khartoum,Heavy Bomber,Alice Johnson,3,-1.1473029982866354
+1,Khartoum,Heavy Bomber,Robert White,3,1.8526970017133646
+1,Khartoum,Heavy Bomber,Tom Cruise,3,0.8526970017133646
+1,Khartoum,Heavy Bomber,Chris Prat,3,-2.1473029982866354
+1,Khartoum,Heavy Bomber,Davis Miller,3,-3.1473029982866354
+1,Khartoum,Heavy Bomber,Shara Connor,3,-0.1473029982866354
+1,Gaza strip,Fighter Jet,John Doe,5,4.948009074883106
+1,Gaza strip,Fighter Jet,Jane Smith,5,2.948009074883106
+1,Gaza strip,Fighter Jet,Michael Clark,5,5.948009074883107
+1,Gaza strip,Fighter Jet,Alice Johnson,5,3.948009074883106
+1,Gaza strip,Fighter Jet,Robert White,5,6.948009074883107
+1,Gaza strip,Fighter Jet,Tom Cruise,5,5.948009074883107
+1,Gaza strip,Fighter Jet,Chris Prat,5,2.948009074883106
+1,Gaza strip,Fighter Jet,Davis Miller,5,1.9480090748831058
+1,Gaza strip,Fighter Jet,Shara Connor,5,4.948009074883106
+1,Gaza strip,Bomber,John Doe,5,2.9133484581385103
+1,Gaza strip,Bomber,Jane Smith,5,0.9133484581385103
+1,Gaza strip,Bomber,Michael Clark,5,3.9133484581385094
+1,Gaza strip,Bomber,Alice Johnson,5,1.9133484581385103
+1,Gaza strip,Bomber,Robert White,5,4.913348458138509
+1,Gaza strip,Bomber,Tom Cruise,5,3.9133484581385094
+1,Gaza strip,Bomber,Chris Prat,5,0.9133484581385103
+1,Gaza strip,Bomber,Davis Miller,5,-0.08665154186148971
+1,Gaza strip,Bomber,Shara Connor,5,2.9133484581385103
+1,Gaza strip,Drone,John Doe,5,6.844027224649318
+1,Gaza strip,Drone,Jane Smith,5,4.844027224649318
+1,Gaza strip,Drone,Michael Clark,5,7.844027224649318
+1,Gaza strip,Drone,Alice Johnson,5,5.844027224649318
+1,Gaza strip,Drone,Robert White,5,8.844027224649318
+1,Gaza strip,Drone,Tom Cruise,5,7.844027224649318
+1,Gaza strip,Drone,Chris Prat,5,4.844027224649318
+1,Gaza strip,Drone,Davis Miller,5,3.8440272246493183
+1,Gaza strip,Drone,Shara Connor,5,6.844027224649318
+1,Gaza strip,Helicopter,John Doe,5,7.005034030811648
+1,Gaza strip,Helicopter,Jane Smith,5,5.005034030811648
+1,Gaza strip,Helicopter,Michael Clark,5,8.005034030811647
+1,Gaza strip,Helicopter,Alice Johnson,5,6.005034030811648
+1,Gaza strip,Helicopter,Robert White,5,9.005034030811647
+1,Gaza strip,Helicopter,Tom Cruise,5,8.005034030811647
+1,Gaza strip,Helicopter,Chris Prat,5,5.005034030811648
+1,Gaza strip,Helicopter,Davis Miller,5,4.005034030811648
+1,Gaza strip,Helicopter,Shara Connor,5,7.005034030811648
+1,Gaza strip,Stealth Fighter,John Doe,5,4.456674229069255
+1,Gaza strip,Stealth Fighter,Jane Smith,5,2.4566742290692547
+1,Gaza strip,Stealth Fighter,Michael Clark,5,5.456674229069256
+1,Gaza strip,Stealth Fighter,Alice Johnson,5,3.4566742290692547
+1,Gaza strip,Stealth Fighter,Robert White,5,6.456674229069256
+1,Gaza strip,Stealth Fighter,Tom Cruise,5,5.456674229069256
+1,Gaza strip,Stealth Fighter,Chris Prat,5,2.4566742290692547
+1,Gaza strip,Stealth Fighter,Davis Miller,5,1.4566742290692547
+1,Gaza strip,Stealth Fighter,Shara Connor,5,4.456674229069255
+1,Gaza strip,Recon Drone,John Doe,5,6.670022687207765
+1,Gaza strip,Recon Drone,Jane Smith,5,4.670022687207765
+1,Gaza strip,Recon Drone,Michael Clark,5,7.670022687207765
+1,Gaza strip,Recon Drone,Alice Johnson,5,5.670022687207765
+1,Gaza strip,Recon Drone,Robert White,5,8.670022687207766
+1,Gaza strip,Recon Drone,Tom Cruise,5,7.670022687207765
+1,Gaza strip,Recon Drone,Chris Prat,5,4.670022687207765
+1,Gaza strip,Recon Drone,Davis Miller,5,3.670022687207765
+1,Gaza strip,Recon Drone,Shara Connor,5,6.670022687207765
+1,Gaza strip,Heavy Bomber,John Doe,5,1.9082513086172455
+1,Gaza strip,Heavy Bomber,Jane Smith,5,-0.09174869138275454
+1,Gaza strip,Heavy Bomber,Michael Clark,5,2.9082513086172455
+1,Gaza strip,Heavy Bomber,Alice Johnson,5,0.9082513086172455
+1,Gaza strip,Heavy Bomber,Robert White,5,3.9082513086172455
+1,Gaza strip,Heavy Bomber,Tom Cruise,5,2.9082513086172455
+1,Gaza strip,Heavy Bomber,Chris Prat,5,-0.09174869138275454
+1,Gaza strip,Heavy Bomber,Davis Miller,5,-1.0917486913827545
+1,Gaza strip,Heavy Bomber,Shara Connor,5,1.9082513086172455
+1,Sanaa,Fighter Jet,John Doe,2,3.63807542413023
+1,Sanaa,Fighter Jet,Jane Smith,2,1.6380754241302302
+1,Sanaa,Fighter Jet,Michael Clark,2,4.63807542413023
+1,Sanaa,Fighter Jet,Alice Johnson,2,2.63807542413023
+1,Sanaa,Fighter Jet,Robert White,2,5.63807542413023
+1,Sanaa,Fighter Jet,Tom Cruise,2,4.63807542413023
+1,Sanaa,Fighter Jet,Chris Prat,2,1.6380754241302302
+1,Sanaa,Fighter Jet,Davis Miller,2,0.6380754241302302
+1,Sanaa,Fighter Jet,Shara Connor,2,3.63807542413023
+1,Sanaa,Bomber,John Doe,2,0.730125706883717
+1,Sanaa,Bomber,Jane Smith,2,-1.2698742931162825
+1,Sanaa,Bomber,Michael Clark,2,1.730125706883717
+1,Sanaa,Bomber,Alice Johnson,2,-0.26987429311628297
+1,Sanaa,Bomber,Robert White,2,2.730125706883717
+1,Sanaa,Bomber,Tom Cruise,2,1.730125706883717
+1,Sanaa,Bomber,Chris Prat,2,-1.2698742931162825
+1,Sanaa,Bomber,Davis Miller,2,-2.2698742931162825
+1,Sanaa,Bomber,Shara Connor,2,0.730125706883717
+1,Sanaa,Stealth Fighter,John Doe,2,3.3650628534418585
+1,Sanaa,Stealth Fighter,Jane Smith,2,1.3650628534418585
+1,Sanaa,Stealth Fighter,Michael Clark,2,4.3650628534418585
+1,Sanaa,Stealth Fighter,Alice Johnson,2,2.3650628534418585
+1,Sanaa,Stealth Fighter,Robert White,2,5.365062853441859
+1,Sanaa,Stealth Fighter,Tom Cruise,2,4.3650628534418585
+1,Sanaa,Stealth Fighter,Chris Prat,2,1.3650628534418585
+1,Sanaa,Stealth Fighter,Davis Miller,2,0.3650628534418585
+1,Sanaa,Stealth Fighter,Shara Connor,2,3.3650628534418585
+1,Sanaa,Heavy Bomber,John Doe,2,-0.40339631035841705
+1,Sanaa,Heavy Bomber,Jane Smith,2,-2.403396310358417
+1,Sanaa,Heavy Bomber,Michael Clark,2,0.596603689641583
+1,Sanaa,Heavy Bomber,Alice Johnson,2,-1.403396310358417
+1,Sanaa,Heavy Bomber,Robert White,2,1.596603689641583
+1,Sanaa,Heavy Bomber,Tom Cruise,2,0.596603689641583
+1,Sanaa,Heavy Bomber,Chris Prat,2,-2.403396310358417
+1,Sanaa,Heavy Bomber,Davis Miller,2,-3.403396310358417
+1,Sanaa,Heavy Bomber,Shara Connor,2,-0.40339631035841705
+1,Manama,Fighter Jet,John Doe,2,3.922676321367115
+1,Manama,Fighter Jet,Jane Smith,2,1.9226763213671152
+1,Manama,Fighter Jet,Michael Clark,2,4.922676321367115
+1,Manama,Fighter Jet,Alice Johnson,2,2.922676321367115
+1,Manama,Fighter Jet,Robert White,2,5.922676321367115
+1,Manama,Fighter Jet,Tom Cruise,2,4.922676321367115
+1,Manama,Fighter Jet,Chris Prat,2,1.9226763213671152
+1,Manama,Fighter Jet,Davis Miller,2,0.9226763213671152
+1,Manama,Fighter Jet,Shara Connor,2,3.922676321367115
+1,Manama,Bomber,John Doe,2,1.204460535611858
+1,Manama,Bomber,Jane Smith,2,-0.7955394643881419
+1,Manama,Bomber,Michael Clark,2,2.204460535611858
+1,Manama,Bomber,Alice Johnson,2,0.20446053561185806
+1,Manama,Bomber,Robert White,2,3.204460535611858
+1,Manama,Bomber,Tom Cruise,2,2.204460535611858
+1,Manama,Bomber,Chris Prat,2,-0.7955394643881419
+1,Manama,Bomber,Davis Miller,2,-1.795539464388142
+1,Manama,Bomber,Shara Connor,2,1.204460535611858
+1,Manama,Stealth Fighter,John Doe,2,3.602230267805929
+1,Manama,Stealth Fighter,Jane Smith,2,1.602230267805929
+1,Manama,Stealth Fighter,Michael Clark,2,4.602230267805929
+1,Manama,Stealth Fighter,Alice Johnson,2,2.602230267805929
+1,Manama,Stealth Fighter,Robert White,2,5.602230267805929
+1,Manama,Stealth Fighter,Tom Cruise,2,4.602230267805929
+1,Manama,Stealth Fighter,Chris Prat,2,1.602230267805929
+1,Manama,Stealth Fighter,Davis Miller,2,0.602230267805929
+1,Manama,Stealth Fighter,Shara Connor,2,3.602230267805929
+1,Manama,Heavy Bomber,John Doe,2,0.09884056711843847
+1,Manama,Heavy Bomber,Jane Smith,2,-1.9011594328815615
+1,Manama,Heavy Bomber,Michael Clark,2,1.0988405671184385
+1,Manama,Heavy Bomber,Alice Johnson,2,-0.9011594328815615
+1,Manama,Heavy Bomber,Robert White,2,2.0988405671184385
+1,Manama,Heavy Bomber,Tom Cruise,2,1.0988405671184385
+1,Manama,Heavy Bomber,Chris Prat,2,-1.9011594328815615
+1,Manama,Heavy Bomber,Davis Miller,2,-2.9011594328815615
+1,Manama,Heavy Bomber,Shara Connor,2,0.09884056711843847
+1,Kuwait City,Fighter Jet,John Doe,3,4.166713879883125
+1,Kuwait City,Fighter Jet,Jane Smith,3,2.166713879883125
+1,Kuwait City,Fighter Jet,Michael Clark,3,5.166713879883126
+1,Kuwait City,Fighter Jet,Alice Johnson,3,3.166713879883125
+1,Kuwait City,Fighter Jet,Robert White,3,6.166713879883126
+1,Kuwait City,Fighter Jet,Tom Cruise,3,5.166713879883126
+1,Kuwait City,Fighter Jet,Chris Prat,3,2.166713879883125
+1,Kuwait City,Fighter Jet,Davis Miller,3,1.1667138798831251
+1,Kuwait City,Fighter Jet,Shara Connor,3,4.166713879883125
+1,Kuwait City,Bomber,John Doe,3,1.6111897998052092
+1,Kuwait City,Bomber,Jane Smith,3,-0.38881020019479084
+1,Kuwait City,Bomber,Michael Clark,3,2.611189799805209
+1,Kuwait City,Bomber,Alice Johnson,3,0.6111897998052092
+1,Kuwait City,Bomber,Robert White,3,3.61118979980521
+1,Kuwait City,Bomber,Tom Cruise,3,2.611189799805209
+1,Kuwait City,Bomber,Chris Prat,3,-0.38881020019479084
+1,Kuwait City,Bomber,Davis Miller,3,-1.3888102001947908
+1,Kuwait City,Bomber,Shara Connor,3,1.6111897998052092
+1,Kuwait City,Stealth Fighter,John Doe,3,3.805594899902605
+1,Kuwait City,Stealth Fighter,Jane Smith,3,1.805594899902605
+1,Kuwait City,Stealth Fighter,Michael Clark,3,4.805594899902605
+1,Kuwait City,Stealth Fighter,Alice Johnson,3,2.805594899902605
+1,Kuwait City,Stealth Fighter,Robert White,3,5.805594899902605
+1,Kuwait City,Stealth Fighter,Tom Cruise,3,4.805594899902605
+1,Kuwait City,Stealth Fighter,Chris Prat,3,1.805594899902605
+1,Kuwait City,Stealth Fighter,Davis Miller,3,0.805594899902605
+1,Kuwait City,Stealth Fighter,Shara Connor,3,3.805594899902605
+1,Kuwait City,Heavy Bomber,John Doe,3,0.5294950821466919
+1,Kuwait City,Heavy Bomber,Jane Smith,3,-1.470504917853308
+1,Kuwait City,Heavy Bomber,Michael Clark,3,1.529495082146692
+1,Kuwait City,Heavy Bomber,Alice Johnson,3,-0.47050491785330806
+1,Kuwait City,Heavy Bomber,Robert White,3,2.529495082146692
+1,Kuwait City,Heavy Bomber,Tom Cruise,3,1.529495082146692
+1,Kuwait City,Heavy Bomber,Chris Prat,3,-1.470504917853308
+1,Kuwait City,Heavy Bomber,Davis Miller,3,-2.470504917853308
+1,Kuwait City,Heavy Bomber,Shara Connor,3,0.5294950821466919
+1,Doha,Fighter Jet,John Doe,4,3.8348394821706995
+1,Doha,Fighter Jet,Jane Smith,4,1.8348394821706995
+1,Doha,Fighter Jet,Michael Clark,4,4.8348394821706995
+1,Doha,Fighter Jet,Alice Johnson,4,2.8348394821706995
+1,Doha,Fighter Jet,Robert White,4,5.8348394821707
+1,Doha,Fighter Jet,Tom Cruise,4,4.8348394821706995
+1,Doha,Fighter Jet,Chris Prat,4,1.8348394821706995
+1,Doha,Fighter Jet,Davis Miller,4,0.8348394821706995
+1,Doha,Fighter Jet,Shara Connor,4,3.8348394821706995
+1,Doha,Bomber,John Doe,4,1.0580658036178328
+1,Doha,Bomber,Jane Smith,4,-0.9419341963821672
+1,Doha,Bomber,Michael Clark,4,2.0580658036178328
+1,Doha,Bomber,Alice Johnson,4,0.058065803617832756
+1,Doha,Bomber,Robert White,4,3.0580658036178328
+1,Doha,Bomber,Tom Cruise,4,2.0580658036178328
+1,Doha,Bomber,Chris Prat,4,-0.9419341963821672
+1,Doha,Bomber,Davis Miller,4,-1.9419341963821672
+1,Doha,Bomber,Shara Connor,4,1.0580658036178328
+1,Doha,Stealth Fighter,John Doe,4,3.5290329018089164
+1,Doha,Stealth Fighter,Jane Smith,4,1.5290329018089164
+1,Doha,Stealth Fighter,Michael Clark,4,4.529032901808916
+1,Doha,Stealth Fighter,Alice Johnson,4,2.5290329018089164
+1,Doha,Stealth Fighter,Robert White,4,5.529032901808916
+1,Doha,Stealth Fighter,Tom Cruise,4,4.529032901808916
+1,Doha,Stealth Fighter,Chris Prat,4,1.5290329018089164
+1,Doha,Stealth Fighter,Davis Miller,4,0.5290329018089164
+1,Doha,Stealth Fighter,Shara Connor,4,3.5290329018089164
+1,Doha,Heavy Bomber,John Doe,4,-0.05616561969876521
+1,Doha,Heavy Bomber,Jane Smith,4,-2.056165619698765
+1,Doha,Heavy Bomber,Michael Clark,4,0.9438343803012348
+1,Doha,Heavy Bomber,Alice Johnson,4,-1.0561656196987652
+1,Doha,Heavy Bomber,Robert White,4,1.9438343803012348
+1,Doha,Heavy Bomber,Tom Cruise,4,0.9438343803012348
+1,Doha,Heavy Bomber,Chris Prat,4,-2.056165619698765
+1,Doha,Heavy Bomber,Davis Miller,4,-3.056165619698765
+1,Doha,Heavy Bomber,Shara Connor,4,-0.05616561969876521

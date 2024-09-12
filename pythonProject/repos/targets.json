@@ -8,7 +8,7 @@
   { "Target City": "Tripoli", "Priority": 2, "lat": 32.896672, "lon": 13.1777923},
   { "Target City": "Ankara", "Priority": 4, "lat": 39.9207886, "lon": 32.8540482 },
   { "Target City": "Khartoum", "Priority": 3, "lat": 15.5635972, "lon": 32.5349123 },
-  { "Target City": "Gaza strip", "Priority": 5, "lat": 0, "lon": 0 },
+  { "Target City": "Gaza strip", "Priority": 5, "lat": 31.5128679, "lon": 34.4581358},
   { "Target City": "Sanaa", "Priority": 2, "lat": 15.3538569, "lon": 44.2058841 },
   { "Target City": "Manama", "Priority": 2, "lat": 26.2235041, "lon": 50.5822436 },
   { "Target City": "Kuwait City", "Priority": 3, "lat": 29.3796532, "lon": 47.9734174 },
